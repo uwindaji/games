@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "node-bluetooth": "^1.2.5",
-    "node-wifi": "^2.0.5"
+    "node-wifi": "^2.0.12"
   }
 }
