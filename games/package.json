@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.2.0"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "node-bluetooth": "^1.2.5",
